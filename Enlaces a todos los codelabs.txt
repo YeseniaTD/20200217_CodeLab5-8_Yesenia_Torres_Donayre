@@ -1,5 +1,10 @@
 CodeLab 1:
 https://github.com/YeseniaTD/20200227_20200217_tarjeta_de_presentacion
+https://github.com/jessicaHuayamares/20200227_20200217_desafio_tarjeta_presentacion
+https://github.com/jessicaHuayamares/20200227_20200217_Cuadrante_Compose
+https://github.com/jessicaHuayamares/20200227_20200217_Administrador_Tareas
+https://github.com/jessicaHuayamares/20200227_20200217_happy_birthday
+https://github.com/jessicaHuayamares/20200227_20200217_Articulo_Compose
 
 CodeLab 2:
 https://github.com/YeseniaTD/20200227_20200217_CodeLab2
